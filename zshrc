@@ -25,6 +25,7 @@ export EDITOR='vim'
 export PATH="/usr/local/bin:$PATH"
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 export PATH="$HOME/.symfony/bin:$PATH"
+export PATH="$HOME/.composer/vendor/bin:$PATH"
 
 source $ZSH/oh-my-zsh.sh
 
